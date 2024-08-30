@@ -1,0 +1,337 @@
+2024-08-12 10:14:55,746 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-12 10:14:55,875 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-12 10:14:56,765 [main] INFO opencart - Clicked on Register Link
+2024-08-12 10:14:56,769 [main] INFO opencart - Providing customer details..
+2024-08-12 10:14:57,390 [main] INFO opencart - clicked on continue
+2024-08-12 10:14:58,343 [main] INFO opencart - Validating expected message..
+2024-08-12 10:14:58,393 [main] ERROR opencart - Test failed
+2024-08-12 10:18:45,649 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-12 10:18:45,743 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-12 10:18:46,656 [main] INFO opencart - Clicked on Register Link
+2024-08-12 10:18:46,658 [main] INFO opencart - Providing customer details..
+2024-08-12 10:18:47,730 [main] INFO opencart - clicked on continue
+2024-08-12 10:18:48,623 [main] INFO opencart - Validating expected message..
+2024-08-12 10:18:48,687 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-12 10:27:32,368 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-12 10:27:32,674 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-12 10:27:33,751 [main] INFO opencart - Clicked on Register Link
+2024-08-12 10:27:33,756 [main] INFO opencart - Providing customer details..
+2024-08-12 10:27:34,370 [main] INFO opencart - clicked on continue
+2024-08-12 10:27:34,440 [main] INFO opencart - Validating expected message..
+2024-08-12 10:27:35,295 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-12 10:30:29,362 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-12 10:30:29,458 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-12 10:30:30,948 [main] INFO opencart - Clicked on Register Link
+2024-08-12 10:30:30,952 [main] INFO opencart - Providing customer details..
+2024-08-12 10:30:31,707 [main] INFO opencart - clicked on continue
+2024-08-12 10:30:32,640 [main] INFO opencart - Validating expected message..
+2024-08-12 10:30:32,685 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-12 10:30:40,245 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-12 10:30:40,560 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-12 10:30:41,960 [main] INFO opencart - Clicked on Register Link
+2024-08-12 10:30:41,961 [main] INFO opencart - Providing customer details..
+2024-08-12 10:30:42,467 [main] INFO opencart - clicked on continue
+2024-08-12 10:30:42,532 [main] INFO opencart - Validating expected message..
+2024-08-12 10:30:43,413 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-12 10:45:43,309 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-12 10:45:43,450 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-12 10:45:44,807 [main] INFO opencart - Clicked on Register Link
+2024-08-12 10:45:44,811 [main] INFO opencart - Providing customer details..
+2024-08-12 10:45:45,657 [main] INFO opencart - clicked on continue
+2024-08-12 10:45:46,531 [main] INFO opencart - Validating expected message..
+2024-08-12 10:45:46,565 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-12 11:56:28,059 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-12 11:58:45,577 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-12 12:00:01,451 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-12 14:21:56,669 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-12 14:22:46,726 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-12 14:22:51,142 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-12 16:19:00,302 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:19:02,912 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:19:02,931 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:19:14,215 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:19:14,228 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:19:17,848 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:19:31,393 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:19:31,398 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:19:44,478 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:24:57,065 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:25:01,119 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:25:01,135 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:25:12,584 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:25:12,590 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:25:17,242 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:25:28,871 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:25:28,892 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:25:31,814 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:38:34,990 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:38:37,544 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:38:37,571 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:38:49,255 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:38:49,291 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:38:52,052 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:39:03,470 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:39:03,489 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:39:07,349 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:41:53,885 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:41:56,307 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:41:56,313 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:42:07,575 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:42:07,581 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:42:11,856 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:42:23,422 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:42:23,441 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:42:26,972 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:43:34,276 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:43:36,566 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:43:36,577 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:43:48,052 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:43:48,052 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:43:51,645 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:44:03,858 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:44:03,874 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:44:06,810 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:47:53,359 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:47:55,733 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:47:55,743 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:48:06,951 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:48:06,969 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:48:10,701 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:48:22,242 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 16:48:22,261 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 16:48:25,299 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:03:36,925 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:03:39,249 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:03:39,261 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:03:50,403 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:03:50,428 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:03:55,442 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:04:08,907 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:04:08,922 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:04:11,833 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:08:28,240 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:08:30,680 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:08:30,693 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:08:42,202 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:08:42,216 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:08:46,727 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:08:59,979 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:08:59,983 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:09:03,336 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:10:31,376 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:10:33,677 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:10:33,683 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:10:44,912 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:10:48,995 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:11:02,377 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:11:02,381 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:11:05,350 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-12 17:11:05,362 [main] INFO opencart - ****Starting TC003_LoginDDT******
+2024-08-12 17:11:16,698 [main] INFO opencart - ****finished TC003_LoginDDT****
+2024-08-13 07:02:59,879 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 07:02:59,994 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 07:03:00,912 [main] INFO opencart - Clicked on Register Link
+2024-08-13 07:03:00,915 [main] INFO opencart - Providing customer details..
+2024-08-13 07:03:01,547 [main] INFO opencart - clicked on continue
+2024-08-13 07:03:02,519 [main] INFO opencart - Validating expected message..
+2024-08-13 07:03:02,567 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-13 07:03:07,674 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 07:03:12,452 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 07:05:28,186 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 07:05:32,963 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 10:13:14,435 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 10:13:14,519 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 10:13:15,147 [main] INFO opencart - Clicked on Register Link
+2024-08-13 10:13:15,149 [main] INFO opencart - Providing customer details..
+2024-08-13 10:13:15,572 [main] INFO opencart - clicked on continue
+2024-08-13 10:13:16,381 [main] INFO opencart - Validating expected message..
+2024-08-13 10:13:16,413 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-13 10:13:20,368 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 10:13:24,964 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 10:17:02,439 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 10:17:02,520 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 10:17:03,144 [main] INFO opencart - Clicked on Register Link
+2024-08-13 10:17:03,146 [main] INFO opencart - Providing customer details..
+2024-08-13 10:17:03,606 [main] INFO opencart - clicked on continue
+2024-08-13 10:17:04,460 [main] INFO opencart - Validating expected message..
+2024-08-13 10:17:04,501 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-13 10:17:07,849 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 10:17:12,800 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 10:18:10,077 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 10:18:10,155 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 10:18:10,794 [main] INFO opencart - Clicked on Register Link
+2024-08-13 10:18:10,795 [main] INFO opencart - Providing customer details..
+2024-08-13 10:18:11,291 [main] INFO opencart - clicked on continue
+2024-08-13 10:18:12,073 [main] INFO opencart - Validating expected message..
+2024-08-13 10:18:12,125 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-13 10:18:15,475 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 10:18:20,199 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 10:22:40,459 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 10:22:40,541 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 10:22:41,164 [main] INFO opencart - Clicked on Register Link
+2024-08-13 10:22:41,165 [main] INFO opencart - Providing customer details..
+2024-08-13 10:22:41,625 [main] INFO opencart - clicked on continue
+2024-08-13 10:22:42,577 [main] INFO opencart - Validating expected message..
+2024-08-13 10:22:42,609 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-13 10:22:47,802 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 10:22:52,330 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 10:26:23,502 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 10:26:23,593 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 10:26:24,385 [main] INFO opencart - Clicked on Register Link
+2024-08-13 10:26:24,386 [main] INFO opencart - Providing customer details..
+2024-08-13 10:26:24,908 [main] INFO opencart - clicked on continue
+2024-08-13 10:26:25,793 [main] INFO opencart - Validating expected message..
+2024-08-13 10:26:25,831 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-13 10:26:30,191 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 10:37:17,969 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 10:37:18,074 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 10:37:18,709 [main] INFO opencart - Clicked on Register Link
+2024-08-13 10:37:18,709 [main] INFO opencart - Providing customer details..
+2024-08-13 10:37:19,313 [main] INFO opencart - clicked on continue
+2024-08-13 10:37:20,162 [main] INFO opencart - Validating expected message..
+2024-08-13 10:37:20,204 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-13 10:37:23,543 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 10:39:20,556 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 10:39:25,240 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 10:40:59,732 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 10:40:59,819 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 10:41:00,445 [main] INFO opencart - Clicked on Register Link
+2024-08-13 10:41:00,447 [main] INFO opencart - Providing customer details..
+2024-08-13 10:41:00,994 [main] INFO opencart - clicked on continue
+2024-08-13 10:41:01,778 [main] INFO opencart - Validating expected message..
+2024-08-13 10:41:05,914 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 10:41:10,435 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 15:01:02,179 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 15:01:02,297 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 15:01:03,562 [main] INFO opencart - Clicked on Register Link
+2024-08-13 15:01:03,566 [main] INFO opencart - Providing customer details..
+2024-08-13 15:01:04,395 [main] INFO opencart - clicked on continue
+2024-08-13 15:01:05,292 [main] INFO opencart - Validating expected message..
+2024-08-13 15:01:12,411 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 15:01:17,079 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-13 15:02:22,843 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 15:02:22,947 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 15:02:24,029 [main] INFO opencart - Clicked on Register Link
+2024-08-13 15:02:24,032 [main] INFO opencart - Providing customer details..
+2024-08-13 15:02:24,634 [main] INFO opencart - clicked on continue
+2024-08-13 15:02:25,466 [main] INFO opencart - Validating expected message..
+2024-08-13 15:02:32,443 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 15:04:00,636 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-13 15:04:00,741 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-13 15:04:03,903 [main] INFO opencart - Clicked on Register Link
+2024-08-13 15:04:03,907 [main] INFO opencart - Providing customer details..
+2024-08-13 15:04:04,613 [main] INFO opencart - clicked on continue
+2024-08-13 15:04:05,415 [main] INFO opencart - Validating expected message..
+2024-08-13 15:04:05,445 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-13 15:04:10,358 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-13 15:04:15,153 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-16 15:11:12,185 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-16 15:11:12,297 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-16 15:11:13,609 [main] INFO opencart - Clicked on Register Link
+2024-08-16 15:11:13,612 [main] INFO opencart - Providing customer details..
+2024-08-16 15:11:14,292 [main] INFO opencart - clicked on continue
+2024-08-16 15:11:15,341 [main] INFO opencart - Validating expected message..
+2024-08-16 15:11:15,470 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-16 15:11:21,337 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-16 15:11:25,961 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-16 16:11:39,864 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-16 16:11:39,924 [main] ERROR opencart - Test failed
+2024-08-16 16:15:02,709 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-16 16:15:02,814 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-16 16:15:03,758 [main] INFO opencart - Clicked on Register Link
+2024-08-16 16:15:03,758 [main] INFO opencart - Providing customer details..
+2024-08-16 16:15:04,553 [main] INFO opencart - clicked on continue
+2024-08-16 16:15:05,474 [main] INFO opencart - Validating expected message..
+2024-08-16 16:15:05,531 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-16 16:15:12,054 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-16 16:15:16,759 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-29 11:13:22,592 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-29 11:13:27,205 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-29 11:13:32,059 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-29 11:13:32,178 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-29 11:13:32,931 [main] INFO opencart - Clicked on Register Link
+2024-08-29 11:13:32,935 [main] INFO opencart - Providing customer details..
+2024-08-29 11:13:33,527 [main] INFO opencart - clicked on continue
+2024-08-29 11:13:34,383 [main] INFO opencart - Validating expected message..
+2024-08-29 11:13:34,430 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-29 11:15:56,689 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-29 11:16:01,302 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-29 11:16:08,205 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-29 11:16:08,303 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-29 11:16:09,451 [main] INFO opencart - Clicked on Register Link
+2024-08-29 11:16:09,459 [main] INFO opencart - Providing customer details..
+2024-08-29 11:16:10,201 [main] INFO opencart - clicked on continue
+2024-08-29 11:16:11,129 [main] INFO opencart - Validating expected message..
+2024-08-29 11:16:11,180 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-29 15:29:53,691 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-29 15:29:53,870 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-29 15:29:54,831 [main] INFO opencart - Clicked on Register Link
+2024-08-29 15:29:54,852 [main] INFO opencart - Providing customer details..
+2024-08-29 15:29:55,632 [main] INFO opencart - clicked on continue
+2024-08-29 15:29:56,485 [main] INFO opencart - Validating expected message..
+2024-08-29 15:29:56,547 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-29 15:30:01,766 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-29 15:30:06,715 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-29 15:38:17,855 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-29 15:38:18,019 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-29 15:38:19,056 [main] INFO opencart - Clicked on Register Link
+2024-08-29 15:38:19,058 [main] INFO opencart - Providing customer details..
+2024-08-29 15:38:19,699 [main] INFO opencart - clicked on continue
+2024-08-29 15:38:20,628 [main] INFO opencart - Validating expected message..
+2024-08-29 15:38:20,666 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-29 15:38:25,936 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-29 15:38:30,742 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-30 07:38:49,013 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-30 07:38:49,190 [main] ERROR opencart - Test failed
+2024-08-30 07:38:51,849 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-30 07:40:44,193 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-30 07:40:44,335 [main] ERROR opencart - Test failed
+2024-08-30 07:40:47,140 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-30 07:41:54,119 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-30 07:41:54,400 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-30 07:41:55,626 [main] INFO opencart - Clicked on Register Link
+2024-08-30 07:41:55,638 [main] INFO opencart - Providing customer details..
+2024-08-30 07:41:57,236 [main] INFO opencart - clicked on continue
+2024-08-30 07:41:58,319 [main] INFO opencart - Validating expected message..
+2024-08-30 07:41:58,425 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-30 07:42:03,759 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-30 07:42:10,133 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-30 07:42:38,803 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-30 07:42:38,924 [main] ERROR opencart - Test failed
+2024-08-30 07:42:41,750 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-30 09:14:41,167 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-30 09:14:41,284 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-30 09:14:43,191 [main] INFO opencart - Clicked on Register Link
+2024-08-30 09:14:43,194 [main] INFO opencart - Providing customer details..
+2024-08-30 09:14:43,637 [main] INFO opencart - clicked on continue
+2024-08-30 09:14:44,534 [main] INFO opencart - Validating expected message..
+2024-08-30 09:14:44,573 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-30 09:14:49,122 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-30 09:14:53,802 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-30 09:16:25,691 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-30 09:16:25,794 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-30 09:16:27,125 [main] INFO opencart - Clicked on Register Link
+2024-08-30 09:16:27,127 [main] INFO opencart - Providing customer details..
+2024-08-30 09:16:27,583 [main] INFO opencart - clicked on continue
+2024-08-30 09:16:28,643 [main] INFO opencart - Validating expected message..
+2024-08-30 09:16:28,696 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-30 09:16:33,186 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-30 09:16:37,948 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-30 09:33:24,422 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-30 09:33:24,520 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-30 09:33:25,492 [main] INFO opencart - Clicked on Register Link
+2024-08-30 09:33:25,497 [main] INFO opencart - Providing customer details..
+2024-08-30 09:33:25,963 [main] INFO opencart - clicked on continue
+2024-08-30 09:33:26,931 [main] INFO opencart - Validating expected message..
+2024-08-30 09:33:26,969 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-30 09:33:32,398 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-30 09:33:36,927 [main] INFO opencart - ******FInished TC002_LoginTest****
+2024-08-30 10:15:57,236 [main] INFO opencart - *****Starting TC001_AccountRegistrationTest ***
+2024-08-30 10:15:57,342 [main] INFO opencart - Clickied on MyAccount Link
+2024-08-30 10:15:58,755 [main] INFO opencart - Clicked on Register Link
+2024-08-30 10:15:58,759 [main] INFO opencart - Providing customer details..
+2024-08-30 10:15:59,195 [main] INFO opencart - clicked on continue
+2024-08-30 10:16:00,104 [main] INFO opencart - Validating expected message..
+2024-08-30 10:16:00,142 [main] INFO opencart - Finished TC001_AccountRegistrationTest
+2024-08-30 10:16:04,447 [main] INFO opencart - *****Starting TC002_LoginTest****
+2024-08-30 10:16:08,969 [main] INFO opencart - ******FInished TC002_LoginTest****
